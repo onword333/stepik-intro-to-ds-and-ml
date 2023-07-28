@@ -25,3 +25,9 @@
 Модели машинного обучения:
 - дерево решиений
 - нейронные сети
+
+## 1.4 Pandas, Dataframes, нет, панды тут ни при чем
+Cheat Sheets по Python, Jupyter, NumPy, SciPy, Pandas, Scikit-Learn, Matplotlib, Seaborn и Bokeh.
+[Одним pdf файлом](assets/python-cheatsheets.pdf)
+
+[Статья про ML простым языком](https://vas3k.ru/blog/machine_learning/)
