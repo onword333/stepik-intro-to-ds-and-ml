@@ -31,3 +31,9 @@ Cheat Sheets по Python, Jupyter, NumPy, SciPy, Pandas, Scikit-Learn, Matplotli
 [Одним pdf файлом](assets/python-cheatsheets.pdf)
 
 [Статья про ML простым языком](https://vas3k.ru/blog/machine_learning/)
+### Pandas
+Основные способы выборки данных:
+* iloc - выбирает строки и колонки
+* loc - выбор по лейблам
+
+[Пример](assets/1_4_lesson.ipynb)
