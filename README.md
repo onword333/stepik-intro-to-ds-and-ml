@@ -37,3 +37,6 @@ Cheat Sheets по Python, Jupyter, NumPy, SciPy, Pandas, Scikit-Learn, Matplotli
 * loc - выбор по лейблам
 
 [Пример](assets/1_4_lesson.ipynb)
+
+table_random['gender'] - вернет тип series
+table_random[['gender']] - вернет тип dataframe
