@@ -39,4 +39,9 @@ Cheat Sheets по Python, Jupyter, NumPy, SciPy, Pandas, Scikit-Learn, Matplotli
 [Пример](assets/1_4_lesson.ipynb)
 
 table_random['gender'] - вернет тип series
+
 table_random[['gender']] - вернет тип dataframe
+
+Сопоставьте значения из двух списков
+![image](https://github.com/onword333/stepik-intro-to-ds-and-ml/assets/19665506/7a5c5572-28a2-46ce-aebd-e928009fd528)
+
