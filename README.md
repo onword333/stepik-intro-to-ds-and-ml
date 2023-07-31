@@ -45,3 +45,12 @@ table_random[['gender']] - вернет тип dataframe
 Сопоставьте значения из двух списков
 ![image](https://github.com/onword333/stepik-intro-to-ds-and-ml/assets/19665506/7a5c5572-28a2-46ce-aebd-e928009fd528)
 
+## 1.5 Фильтрация данных
+query - отбор данных
+
+отбор по двум условиям
+
+    data[(data['writing score'] > 74) & (data.gender == 'female')]
+При работе с pandas series для логического И нужно использовать & вместо уже знакомого and. Нужно указать приоритет операций, взяв условия в скобки [(condition) и (condition)]
+
+[notebook примеры урока](https://github.com/onword333/stepik-intro-to-ds-and-ml/blob/main/assets/1_5_lesson.ipynb)
