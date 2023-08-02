@@ -54,3 +54,7 @@ query - отбор данных
 При работе с pandas series для логического И нужно использовать & вместо уже знакомого and. Нужно указать приоритет операций, взяв условия в скобки [(condition) и (condition)]
 
 [notebook примеры урока](https://github.com/onword333/stepik-intro-to-ds-and-ml/blob/main/assets/1_5_lesson.ipynb)
+
+[Как различается среднее и дисперсия оценок по предметам у групп студентов со стандартным или урезанным ланчем ?](assets/1_5_lesson.ipynb)
+
+![imaage](assets/Шаг%207%20–%20Фильтрация%20данных%20–%20Stepik.jpg)
