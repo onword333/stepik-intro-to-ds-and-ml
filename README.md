@@ -66,3 +66,8 @@ query - отбор данных
 filter - отбирает колонки по названию колонок или по строкам
 
     DataFrame.filter(items=None, like=None, regex=None, axis=None)
+
+### Шаг 12
+Отберите колонки, в которых есть '-' в датафрэйме df (вот соответствующий датасэт). Сохраните их в переменную selected_columns
+    
+    selected_columns = df.filter(like = '-')
