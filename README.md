@@ -10,6 +10,15 @@
 * rename() - переименование колонок
 
 
+## Визуализация
+* [matplotlib](https://matplotlib.org/)
+* [встроенная в pandas визуализация](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.plot.html)
+* [seaborn](https://seaborn.pydata.org/)
+
+### Графики
+* DataFrame.hist() - гистограмма
+* DataFrame.plot.scatter() - точечная диаграмма, корреляция между двумя переменными
+
 ## 1.2 Биг дэйта, дип машин лернинг, основные понятия
 [Как попасть в data science](https://www.youtube.com/watch?v=lDkTNURDIaY)
 
@@ -89,4 +98,3 @@ groupby - группировка данных см. [пример](assets/1_6_le
 ![image](assets/image/1_6_5.jpg)
 
 К нам поступили данные из бухгалтерии о заработках Лупы и Пупы за разные задачи! Посмотрите у кого из них больше средний заработок в различных категориях (колонка Type) и заполните таблицу, указывая исполнителя с большим заработком в каждой из категорий:
-
