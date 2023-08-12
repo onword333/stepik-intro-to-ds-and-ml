@@ -58,6 +58,11 @@ Cheat Sheets по Python, Jupyter, NumPy, SciPy, Pandas, Scikit-Learn, Matplotli
 * iloc - выбирает строки и колонки
 * loc - выбор по лейблам
 
+[разница между pandas loc и iloc](https://stackoverflow.com/questions/31593201/pandas-iloc-vs-ix-vs-loc-explanation)
+
+Как отобрать все строки кроме указанных [док-ция](https://pandas.pydata.org/pandas-docs/stable/generated/pandas.DataFrame.drop.html) ответ на [stackoverflow](https://stackoverflow.com/questions/31593201/how-are-iloc-and-loc-different)
+
+[](https://stackoverflow.com/questions/28256761/select-pandas-rows-by-excluding-index-number)
 [Пример](assets/1_4_lesson.ipynb)
 
 table_random['gender'] - вернет тип series
