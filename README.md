@@ -30,6 +30,7 @@
 * fillna() - заполняет значения NA/NaN указанными значениями
 * median() - возвращает медиану значений по указаной оси
 * to_datetime() - конверирование в объект даты и времени datetime64. Работа с датой [пример1 ](https://python-scripts.com/datetime-time-python), [пример 2](https://www.geeksforgeeks.org/python-working-with-date-and-time-using-pandas/), [пример 3](https://medium.com/datadriveninvestor/how-to-work-with-dates-in-pandas-like-a-pro-a84055a4819d)
+* pivot_table() - сводная таблица. index='колонка индекса', columns='по значениям какой колонки будет развернуты колонки', values='колонки для значений которые считать', aggfunc='функция подсчета', fill_value=заполнение пропущенных значений указанным
 
 ## Форматирование даты
     %d — день месяца (от 01 до 31)
