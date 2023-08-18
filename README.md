@@ -29,7 +29,21 @@
 * assign() - добавляет новую колонку/и, только им и пользоваться т.к. он работает быстрее всех [подробнее](https://suilin.ru/post/pandas_column/)
 * fillna() - заполняет значения NA/NaN указанными значениями
 * median() - возвращает медиану значений по указаной оси
+* to_datetime() - конверирование в объект даты и времени datetime64. Работа с датой [пример1 ](https://python-scripts.com/datetime-time-python), [пример 2](https://www.geeksforgeeks.org/python-working-with-date-and-time-using-pandas/), [пример 3](https://medium.com/datadriveninvestor/how-to-work-with-dates-in-pandas-like-a-pro-a84055a4819d)
 
+## Форматирование даты
+    %d — день месяца (от 01 до 31)
+    %m — номер месяца (от 01 до 12)
+    %Y — четырёхзначный номер года (например, 2019)
+    Z или T — стандартный разделитель даты и времени
+    %H — номер часа в 24-часовом формате
+    %I — номер часа в 12-часовом формате
+    %M — минуты (от 00 до 59)
+    %S — секунды (от 00 до 59)
+    'D' — *day (*от англ. «день»)
+    'H' — hour (от англ. «час»)
+    'min' или 'T' — minute (от англ. «минута»)
+    'S' — second (от англ. «секунда»)
 
 ## Визуализация
 * [matplotlib](https://matplotlib.org/)
