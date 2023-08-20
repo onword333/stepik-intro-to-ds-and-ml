@@ -63,6 +63,7 @@
 * [matplotlib](https://matplotlib.org/)
 * [встроенная в pandas визуализация](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.plot.html)
 * [seaborn](https://seaborn.pydata.org/)
+* [Многомерные пространства](http://hi.gher.space/classic/introduction.htm)
 
 ### Графики
 * DataFrame.hist() - гистограмма
@@ -70,6 +71,7 @@
 * seaborn.kdeplot - график плотности
 * seaborn.displot - эта функция обеспечивает доступ к нескольким подходам к визуализации одномерного или двумерного распределения данных. Параметр kind - определяет, что рисуем.
 * seaborn.pairplot - отражающий зависимость пар переменных друг от друга, а также распределение каждой из переменных
+
 
 ## Карьера в data science
 Тезисы из видео:
