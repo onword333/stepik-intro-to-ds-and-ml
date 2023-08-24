@@ -30,6 +30,14 @@
 * [Мария Жавадова](https://youtu.be/SMRI4qKgyq8), [vk](https://vk.com/zhavadik)
 * [Анатолий Карпов](https://t.me/karpov_anatoly)
 
+
+## Решающие деревья
+* [Материал](https://towardsdatascience.com/entropy-how-decision-trees-make-decisions-2946b9c18c8) для повторения алгоритма обучения дерева.
+* [Подробная лекция](https://www.youtube.com/watch?v=-dCtJjlEEgM) про решающие деревья, мне очень понравилось, как излагается материал, настоятельно рекомендую вместе/до/после/ нашего курса.
+* [Очень крутая визуализация](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/) принципа работы решающих деревьев!
+* хорошошая [статья](https://habr.com/ru/companies/ods/articles/322534/) на русском
+* [Более литературный перевод 1 материала](https://habr.com/ru/companies/otus/articles/502200/) о есть нюанс - потерян рисунок-схема по признаку Баланс, его можно посмотреть в оригинальном материале
+
 ## Словарь изученных методов Pandas
 * filter() - отбор по колонок иил строк
 * iloc() - выбирает строки и колонки
